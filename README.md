@@ -1,2 +1,2 @@
 # simple-calculator
-simple calculator whare made with html css and javascript 
+simple calculator made with html css and javascript 
